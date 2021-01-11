@@ -1,0 +1,7 @@
+{
+  "name": "NotiApp",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
