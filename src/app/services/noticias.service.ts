@@ -9,6 +9,7 @@ const apiURL = environment.apiURL;
 
 const headers = new HttpHeaders({
   'X-Api-key': apikey,
+  'Access-Control-Allow-Origin': 'https://newsapi.org/v2/*'
 });
 
 @Injectable({
